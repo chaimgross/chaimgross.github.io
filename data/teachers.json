@@ -1,5 +1,44 @@
  {
     "teachers": {
+   "xUbTspxib81AmpAkXAUj": {
+        "first_name": "תמר",
+        "endorsing": "",
+        "notes": "",
+        "last_name": "טרבלסי",
+        "streams": [
+          "ashkenazi",
+          "sephardi",
+          "chabad",
+          "teimani"
+        ],
+        "languages": [
+          "he"
+        ],
+        "email": "",
+        "timeStamp": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1653651039,
+            "_nanoseconds": 436000000
+          }
+        },
+        "address": {
+          "streetAddress": {
+            "name": "",
+            "apt": "",
+            "number": ""
+          },
+          "country": "IL",
+          "formatted": "נתניה, ישראל",
+          "city": "נתניה",
+          "location": {
+            "latitude": 32.321458,
+            "longitude": 34.853196
+          }
+        },
+        "phone": "050-2060023",
+        "__collections__": {}
+      },
       "041NrdW14KtM5Rmhp6pe": {
         "phone": "054-5281430",
         "notes": "",
