@@ -3404,8 +3404,19 @@
             "_nanoseconds": 593000000
           }
         },
-        "address": {
-          "formatted": "נתניה"
+       "address": {
+          "formatted": "נתניה, ישראל",
+          "city": "נתניה",
+          "country": "IL",
+          "streetAddress": {
+            "apt": "",
+            "name": "",
+            "number": ""
+          },
+          "location": {
+            "latitude": 32.321458,
+            "longitude": 34.853196
+          }
         },
         "email": "",
         "first_name": "תמר",
