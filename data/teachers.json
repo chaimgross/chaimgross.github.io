@@ -3390,45 +3390,6 @@
         ],
         "__collections__": {}
       },
-      "DPnqqNM0Fmdw2d5r4ey4": {
-        "last_name": "טרבלסי ",
-        "streams": [
-          "ashkenazi",
-          "sephardi",
-          "chabad",
-          "teimani"
-        ],
-        "timeStamp": {
-          "__datatype__": "timestamp",
-          "value": {
-            "_seconds": 1653638442,
-            "_nanoseconds": 593000000
-          }
-        },
-      "address": {
-          "formatted": "נתניה, ישראל",
-          "city": "נתניה",
-          "country": "IL",
-          "streetAddress": {
-            "apt": "",
-            "name": "",
-            "number": ""
-          },
-          "location": {
-            "latitude": 32.321458,
-            "longitude": 34.853196
-          }
-        },
-        "email": "",
-        "first_name": "תמר",
-        "phone": "050-2060023",
-        "endorsing": "פוע״ה",
-        "languages": [
-          "he"
-        ],
-        "notes": "",
-        "__collections__": {}
-      },
       "DZB4GVZOmSEJaEXKsitg": {
         "address": {
           "country": "IL",
@@ -14920,57 +14881,6 @@
         "endorsing": "",
         "phone": "914-420-3057",
         "first_name": "Chaya Sima",
-        "__collections__": {}
-      },
-      "xUbTspxib81AmpAkXAUj": {
-        "first_name": "תמר",
-        "endorsing": "",
-        "notes": "",
-        "last_name": "טרבלסי",
-        "streams": [
-          {
-            "value": "ashkenazi",
-            "label": "Ashkenazi"
-          },
-          {
-            "label": "Sephardi",
-            "value": "sephardi"
-          },
-          {
-            "label": "Chabad",
-            "value": "chabad"
-          },
-          {
-            "value": "teimani",
-            "label": "Teimani"
-          }
-        ],
-        "languages": [
-          "he"
-        ],
-        "email": "",
-        "timeStamp": {
-          "__datatype__": "timestamp",
-          "value": {
-            "_seconds": 1653651039,
-            "_nanoseconds": 436000000
-          }
-        },
-        "address": {
-          "streetAddress": {
-            "name": "",
-            "apt": "",
-            "number": ""
-          },
-          "country": "IL",
-          "formatted": "נתניה, ישראל",
-          "city": "נתניה",
-          "location": {
-            "latitude": 32.321458,
-            "longitude": 34.853196
-          }
-        },
-        "phone": "050-2060023",
         "__collections__": {}
       },
       "xYBsVgEuwD9cM4uIegom": {
